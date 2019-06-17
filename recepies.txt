@@ -8,6 +8,9 @@ house
 reddy
 ravali123
 
+read
+write
+
 
 
 
