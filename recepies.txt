@@ -2,3 +2,4 @@ welcome new home
 kitchen
 hall
 rooms
+house
